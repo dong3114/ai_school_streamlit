@@ -1,0 +1,9 @@
+# api key 세팅 파일
+.env
+
+# 폴더
+/data
+/__pycache__
+__init__.py
+/*_db
+/taxenv
